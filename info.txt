@@ -2,3 +2,5 @@ clase del 17-10
 - uso de github
 - uso de api 
 - uso de python
+- preparación evaluación N°2
+
